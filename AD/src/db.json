@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy Z Fold 3",
+        "image": "https://hoanghamobile.com/Uploads/2021/01/15/a2.png",
+        "price": 35000000
+    },
+    {
+        "id": 2,
+        "name": "Iphone 13 Promax",
+        "image": "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/10/05004752/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-space-black-220907-geo-768x1075.jpg",
+        "price": 27800000
+    },
+    {
+        "id": 3,
+        "name": "Xiaomi Mi 11 Ultra",
+        "image": "https://file.hstatic.net/1000238589/file/dien_thoai_samsung_galaxy_s21_fe_5g__6gb_-_128gb__d1b8fd531ef24903a16cbca1bd666b34.jpg",
+        "price": 18500000
+    },
+    {
+        "id": 4,
+        "name": "Oppo Find X5 Pro",
+        "image": "https://tse3.mm.bing.net/th?id=OIP._PyrZLOuBlMUMA4xgL88KwHaIw&pid=Api&P=0&h=180",
+        "price": 21200000
+    },
+    {
+        "id": 5,
+        "name": "OnePlus 9 Pro",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.ohbiNiNDgVPRGr96gs-mnAHaHa&pid=Api&P=0&h=180",
+        "price": 19300000
+    },
+    {
+        "id": 6,
+        "name": "Google Pixel 7 Pro",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.ohbiNiNDgVPRGr96gs-mnAHaHa&pid=Api&P=0&h=180",
+        "price": 23500000
+    },
+    {
+        "id": 7,
+        "name": "Vivo X80 Pro",
+        "image": "https://hoanghamobile.com/Uploads/2021/01/15/a2.png",
+        "price": 16900000
+    },
+    {
+        "id": 8,
+        "name": "Realme GT 2 Pro",
+        "image": "https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/10/05004752/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-space-black-220907-geo-768x1075.jpg",
+        "price": 14700000
+    },
+    {
+        "id": 9,
+        "name": "Sony Xperia 1 IV",
+        "image": "https://file.hstatic.net/1000238589/file/dien_thoai_samsung_galaxy_s21_fe_5g__6gb_-_128gb__d1b8fd531ef24903a16cbca1bd666b34.jpg",
+        "price": 30500000
+    },
+    {
+        "id": 10,
+        "name": "Huawei Mate 40 Pro",
+        "image": "https://tse3.mm.bing.net/th?id=OIP._PyrZLOuBlMUMA4xgL88KwHaIw&pid=Api&P=0&h=180",
+        "price": 22900000
+    }
+]
